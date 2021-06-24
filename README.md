@@ -1,6 +1,6 @@
 # Cognitive Recognition
 
-### App to convert speech in an Audio file to text in specified language translations. The text translations are then stored in a database to be used in realtime.
+#### App to convert speech in an Audio file to text in specified language translations. The text translations are then stored in a database to be used in realtime.
 
 ## Technology
 - NodeJS - Programming Language
