@@ -1,0 +1,5 @@
+\node_modules
+\audioFiles
+.env
+package-lock.json
+workspaceVS.code-workspace
